@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&text=Grow up now)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&text= grow up now)
 
 
 <!--
