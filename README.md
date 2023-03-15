@@ -3,10 +3,12 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=A3B899&height=150&section=header&text=Lani&fontColor=FCEEE9&fontSize=70&animation=blink&fontAlignY=55)
 
 
-## <br/> 🤍 Welcome to my Github!
+## <br/> 🤍 Welcome to my Github 🤍
 
 <br/>
-  
+
+<!-- vscode -->
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 <!-- Python -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <!-- MysQL -->
