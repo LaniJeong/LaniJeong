@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&text= grow up now)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=A3B899&height=150&section=header&text=Lani&fontColor=FCEEE9&fontSize=70&animation=blink&fontAlignY=55)
 
 
 <!--
