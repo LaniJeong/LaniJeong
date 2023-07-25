@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=A3B899&height=150&section=header&text=Lani&fontColor=FCEEE9&fontSize=70&animation=blink&fontAlignY=55)
 
 
-## <br/> 🤍 Welcome to my Github 🤍
+## <br/> 
 
 <br/>
 
@@ -15,6 +15,8 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <!-- github -->
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<!-- C# -->
+
 
 
 <!--
