@@ -16,7 +16,7 @@
 <!-- github -->
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <!-- C# -->
-<img src="https://img.shields.io/badge/github-239120?style=for-the-badge&logo=CSharp&logoColor=white">
+<img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=csharp&logoColor=white"/></a>&nbsp
 
 
 
